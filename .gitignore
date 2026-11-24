@@ -1,0 +1,18 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Generated data - don't upload these
+data/audio/
+data/transcripts/
+data/chunks/
+data/embeddings/
+
+# OS files
+.DS_Store

@@ -1,0 +1,1595 @@
+{
+    "playlist_id": "PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_",
+    "total_videos": 317,
+    "videos": {
+        "SVvr3ZjtjI8": {
+            "title": "How I Got Good at Coding Interviews",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/SVvr3ZjtjI8.json"
+        },
+        "mBNrRy2_hVs": {
+            "title": "Top 5 Dynamic Programming Patterns for Coding Interviews - For Beginners",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/mBNrRy2_hVs.json"
+        },
+        "utDu3Q7Flrw": {
+            "title": "Top 5 Most Common Graph Algorithms for Coding Interviews",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/utDu3Q7Flrw.json"
+        },
+        "Ber2pi2C0j0": {
+            "title": "Search a 2D Matrix - Leetcode 74 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Ber2pi2C0j0.json"
+        },
+        "4xbWSRZHqac": {
+            "title": "Sort Colors - Quicksort Partition - Leetcode 75 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/4xbWSRZHqac.json"
+        },
+        "qkLl7nAwDPo": {
+            "title": "Design Min Stack - Amazon Interview Question - Leetcode 155 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/qkLl7nAwDPo.json"
+        },
+        "3Rw3p9LrgvE": {
+            "title": "Interleaving Strings - Dynamic Programming - Leetcode 97 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/3Rw3p9LrgvE.json"
+        },
+        "6jf6SK9qWBc": {
+            "title": "How to use Leetcode in 2020",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/6jf6SK9qWBc.json"
+        },
+        "emNkJGwcusQ": {
+            "title": "Python in 8 minutes (compared to Java)",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/emNkJGwcusQ.json"
+        },
+        "KLlXCFG5TnA": {
+            "title": "Two Sum - Leetcode 1 - HashMap - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/KLlXCFG5TnA.json"
+        },
+        "cQ1Oz4ckceM": {
+            "title": "TWO SUM II - Amazon Coding Interview Question - Leetcode 167 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/cQ1Oz4ckceM.json"
+        },
+        "jzZsG8n2R9A": {
+            "title": "3Sum - Leetcode 15 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/jzZsG8n2R9A.json"
+        },
+        "7ABFKPK2hD4": {
+            "title": "LRU Cache - Twitch Interview Question - Leetcode 146",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/7ABFKPK2hD4.json"
+        },
+        "5WZl3MMT0Eg": {
+            "title": "Maximum Subarray - Amazon Coding Interview Question - Leetcode 53 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/5WZl3MMT0Eg.json"
+        },
+        "73r3KWiEvyk": {
+            "title": "House Robber -  Leetcode 198 - Python Dynamic Programming",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/73r3KWiEvyk.json"
+        },
+        "XYQecbcd6_c": {
+            "title": "Longest Palindromic Substring - Python - Leetcode 5",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/XYQecbcd6_c.json"
+        },
+        "ljz85bxOYJ0": {
+            "title": "Happy Number - Leetcode 202 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/ljz85bxOYJ0.json"
+        },
+        "UuiTKBwPgAo": {
+            "title": "Container with Most Water - Leetcode 11 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/UuiTKBwPgAo.json"
+        },
+        "zx5Sw9130L0": {
+            "title": "LARGEST RECTANGLE IN HISTOGRAM - Leetcode 84 - Python",
+            "status": "skipped",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/zx5Sw9130L0.json"
+        },
+        "XIdigk956u0": {
+            "title": "Merge Two Sorted Lists - Leetcode 21 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/XIdigk956u0.json"
+        },
+        "q5a5OiGbT6Q": {
+            "title": "Merge K Sorted Lists - Leetcode 23 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/q5a5OiGbT6Q.json"
+        },
+        "G0_I-ZF0S38": {
+            "title": "Reverse Linked List - Iterative AND Recursive - Leetcode 206 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/G0_I-ZF0S38.json"
+        },
+        "yOzXms1J6Nk": {
+            "title": "Palindrome Linked List - Leetcode 234 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/yOzXms1J6Nk.json"
+        },
+        "wgFPrzTjm7s": {
+            "title": "Add Two Numbers - Leetcode 2 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/wgFPrzTjm7s.json"
+        },
+        "pV2kpPD66nE": {
+            "title": "NUMBER OF ISLANDS - Leetcode 200 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/pV2kpPD66nE.json"
+        },
+        "s7AvT7cGdSo": {
+            "title": "Backtracking: Permutations - Leetcode 46 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/s7AvT7cGdSo.json"
+        },
+        "wiGpQwVHdE0": {
+            "title": "Longest Substring Without Repeating Characters - Leetcode 3 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/wiGpQwVHdE0.json"
+        },
+        "K-RYzDZkzCI": {
+            "title": "Search Insert Position - Binary Search - Leetcode 35 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/K-RYzDZkzCI.json"
+        },
+        "1pkOgXD63yU": {
+            "title": "Sliding Window: Best Time to Buy and Sell Stock - Leetcode 121 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/1pkOgXD63yU.json"
+        },
+        "P6RZZMu_maU": {
+            "title": "Leetcode 128 - LONGEST CONSECUTIVE SEQUENCE",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/P6RZZMu_maU.json"
+        },
+        "ZHjKhUjcsaU": {
+            "title": "Leetcode 1299 - REPLACE ELEMENTS WITH GREATEST ELEMENT ON RIGHT SIDE",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/ZHjKhUjcsaU.json"
+        },
+        "m17yOR5_PpI": {
+            "title": "Leetcode 1466 - REORDER ROUTES TO MAKE ALL PATHS LEAD TO THE CITY ZERO",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/m17yOR5_PpI.json"
+        },
+        "U8XENwh8Oy8": {
+            "title": "Search in rotated sorted array - Leetcode 33 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/U8XENwh8Oy8.json"
+        },
+        "Ox0TenN3Zpg": {
+            "title": "Unique Binary Search Trees - Leetcode 96 - Python Dynamic Programming",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Ox0TenN3Zpg.json"
+        },
+        "Jk16lZGFWxE": {
+            "title": "Sum Root to Leaf Numbers - Coding Interview Question - Leetcode 129",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Jk16lZGFWxE.json"
+        },
+        "xCsIkPLS4Ls": {
+            "title": "Leetcode 1498 - Number of Subsequences That Satisfy the Given Sum Condition - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/xCsIkPLS4Ls.json"
+        },
+        "JI71sxtHTng": {
+            "title": "Remove Linked List Elements - Leetcode 203",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/JI71sxtHTng.json"
+        },
+        "XVuQxVej6y8": {
+            "title": "Remove Nth Node from End of List - Oracle Interview Question - Leetcode 19",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/XVuQxVej6y8.json"
+        },
+        "o811TZLAWOo": {
+            "title": "Swap Nodes in Pairs - Apple Interview Question - Leetcode 24",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/o811TZLAWOo.json"
+        },
+        "FSSKteJmWMs": {
+            "title": "Learn SQL - SQL Interview Question - Second Highest Salary",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/FSSKteJmWMs.json"
+        },
+        "LHweCQVw9gk": {
+            "title": "Netflix Interview Question - Top 3 Salaries - MySql",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/LHweCQVw9gk.json"
+        },
+        "6X7Ha2PrDmM": {
+            "title": "Maximal Square - Top Down Memoization - Leetcode 221",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/6X7Ha2PrDmM.json"
+        },
+        "OM1MTokvxs4": {
+            "title": "Triangle - Dynamic Programming made Easy - Leetcode 120",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/OM1MTokvxs4.json"
+        },
+        "1UOPsfP85V4": {
+            "title": "Reverse Nodes in K-Group - Linked List - Leetcode 25",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/1UOPsfP85V4.json"
+        },
+        "lXVy6YWFcRM": {
+            "title": "Maximum Product Subarray - Dynamic Programming - Leetcode 152",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/lXVy6YWFcRM.json"
+        },
+        "DfljaUwZsOk": {
+            "title": "Sliding Window Maximum - Monotonic Queue - Leetcode 239",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/DfljaUwZsOk.json"
+        },
+        "EgI5nU9etnU": {
+            "title": "Course Schedule - Graph Adjacency List - Leetcode 207",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/EgI5nU9etnU.json"
+        },
+        "H9bfqozjoqs": {
+            "title": "Coin Change - Dynamic Programming Bottom Up - Leetcode 322",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/H9bfqozjoqs.json"
+        },
+        "s6ATEkipzow": {
+            "title": "Validate Binary Search Tree - Depth First Search - Leetcode 98",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/s6ATEkipzow.json"
+        },
+        "cjWnW0hdF1Y": {
+            "title": "Longest Increasing Subsequence - Dynamic Programming - Leetcode 300",
+            "status": "failed",
+            "error": "Audio file missing: /Users/akshatgarg/Desktop/AI Engineer/Week 3/youtube-rag/data/audio/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/cjWnW0hdF1Y.wav"
+        },
+        "vzdNOK2oB2E": {
+            "title": "Group Anagrams - Categorize Strings by Count - Leetcode 49",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/vzdNOK2oB2E.json"
+        },
+        "T41rL0L3Pnw": {
+            "title": "Set Matrix Zeroes - In-place - Leetcode 73",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/T41rL0L3Pnw.json"
+        },
+        "44H3cEC2fFM": {
+            "title": "Merge Intervals - Sorting - Leetcode 56",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/44H3cEC2fFM.json"
+        },
+        "Akt3glAwyfY": {
+            "title": "Course Schedule II - Topological Sort - Leetcode 210",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Akt3glAwyfY.json"
+        },
+        "BJnMZNwUk1M": {
+            "title": "Spiral Matrix - Microsoft Interview Question - Leetcode 54",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/BJnMZNwUk1M.json"
+        },
+        "q6IEA26hvXc": {
+            "title": "Median of Two Sorted Arrays - Binary Search - Leetcode 4",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/q6IEA26hvXc.json"
+        },
+        "REOH22Xwdkk": {
+            "title": "Subsets - Backtracking - Leetcode 78",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/REOH22Xwdkk.json"
+        },
+        "jSto0O4AJbM": {
+            "title": "Minimum Window Substring - Airbnb Interview Question - Leetcode 76",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/jSto0O4AJbM.json"
+        },
+        "IlEsdxuD4lY": {
+            "title": "Unique Paths - Dynamic Programming - Leetcode 62",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/IlEsdxuD4lY.json"
+        },
+        "fMSJSS7eO1w": {
+            "title": "Rotate Image - Matrix - Leetcode 48",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/fMSJSS7eO1w.json"
+        },
+        "3jvWodd7ht0": {
+            "title": "Palindrome Partitioning - Backtracking - Leetcode 131",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/3jvWodd7ht0.json"
+        },
+        "0K0uCMYq5ng": {
+            "title": "Convert Sorted Array to Binary Search Tree - Leetcode 108 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/0K0uCMYq5ng.json"
+        },
+        "qhBVWf0YafA": {
+            "title": "Permutations II - Backtracking - Leetcode 47",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/qhBVWf0YafA.json"
+        },
+        "TGveA1oFhrc": {
+            "title": "Sort List - Merge Sort - Leetcode 148",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/TGveA1oFhrc.json"
+        },
+        "itmhHWaHupI": {
+            "title": "Find Median from Data Stream - Heap & Priority Queue - Leetcode 295",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/itmhHWaHupI.json"
+        },
+        "OnSn2XEQ4MY": {
+            "title": "Invert Binary Tree - Depth First Search - Leetcode 226",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/OnSn2XEQ4MY.json"
+        },
+        "d4zLyf32e3I": {
+            "title": "Binary Tree Right Side View - Breadth First Search - Leetcode 199",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/d4zLyf32e3I.json"
+        },
+        "KT1iUciJr4g": {
+            "title": "Partition List - Linked List - Leetcode 86",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/KT1iUciJr4g.json"
+        },
+        "mQeF6bN8hMk": {
+            "title": "Clone Graph - Depth First Search - Leetcode 133",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/mQeF6bN8hMk.json"
+        },
+        "HAA8mgxlov8": {
+            "title": "Regular Expression Matching - Dynamic Programming Top-Down Memoization - Leetcode 10",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/HAA8mgxlov8.json"
+        },
+        "QHH6rIK3dDQ": {
+            "title": "Merge Two Binary Trees - Leetcode 617",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/QHH6rIK3dDQ.json"
+        },
+        "4sQL7R5ySUU": {
+            "title": "First and Last Position of Element in Sorted Array - Binary Search - Leetcode 34",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/4sQL7R5ySUU.json"
+        },
+        "s9fokUqJ76A": {
+            "title": "Generate Parentheses - Stack - Leetcode 22",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/s9fokUqJ76A.json"
+        },
+        "5LUXSvjmGCw": {
+            "title": "Kth Smallest Element in a BST - Leetcode 230 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/5LUXSvjmGCw.json"
+        },
+        "0snEunUacZY": {
+            "title": "Letter Combinations of a Phone Number - Backtracking - Leetcode 17",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/0snEunUacZY.json"
+        },
+        "LN7KjRszjk4": {
+            "title": "Asteroid Collision - Stack - Leetcode 735",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/LN7KjRszjk4.json"
+        },
+        "bkxqA8Rfv04": {
+            "title": "Diameter of a Binary Tree - Leetcode 543 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/bkxqA8Rfv04.json"
+        },
+        "nHR8ytpzz7c": {
+            "title": "House Robber III - Tree - Leetcode 337",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/nHR8ytpzz7c.json"
+        },
+        "fISIuAFRM2s": {
+            "title": "Island Perimeter - Graph - Leetcode 463",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/fISIuAFRM2s.json"
+        },
+        "rWAJCfYYOvM": {
+            "title": "House Robber II - Dynamic Programming - Leetcode 213",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/rWAJCfYYOvM.json"
+        },
+        "99RVfqklbCE": {
+            "title": "Is Subsequence - Leetcode 392",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/99RVfqklbCE.json"
+        },
+        "Ua0GhsJSlWM": {
+            "title": "Longest Common Subsequence - Dynamic Programming - Leetcode 1143",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Ua0GhsJSlWM.json"
+        },
+        "6ZnyEApgFYg": {
+            "title": "Binary Tree Level Order Traversal - BFS - Leetcode 102",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/6ZnyEApgFYg.json"
+        },
+        "5Y2EiZST97Y": {
+            "title": "Copy List with Random Pointer - Linked List - Leetcode 138",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/5Y2EiZST97Y.json"
+        },
+        "ZI2z5pq0TqA": {
+            "title": "Trapping Rain Water - Google Interview Question - Leetcode 42",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/ZI2z5pq0TqA.json"
+        },
+        "Yan0cv2cLy8": {
+            "title": "Jump Game - Greedy - Leetcode 55",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Yan0cv2cLy8.json"
+        },
+        "VyBOaboQLGc": {
+            "title": "Encode and Decode TinyURL - Leetcode 535 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/VyBOaboQLGc.json"
+        },
+        "UcGtPs2LE_c": {
+            "title": "Rotate List - Linked List - Leetcode 61 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/UcGtPs2LE_c.json"
+        },
+        "qYlHrAKJfyA": {
+            "title": "Simplify Path - Stack - Leetcode 71 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/qYlHrAKJfyA.json"
+        },
+        "dJ7sWiOoK7g": {
+            "title": "Jump Game II - Greedy - Leetcode 45 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/dJ7sWiOoK7g.json"
+        },
+        "ihj4IQGZ2zc": {
+            "title": "Construct Binary Tree from Inorder and Preorder Traversal - Leetcode 105 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/ihj4IQGZ2zc.json"
+        },
+        "WTzjTskDFMg": {
+            "title": "Valid Parentheses - Stack - Leetcode 20 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/WTzjTskDFMg.json"
+        },
+        "RR1n-d4oYqE": {
+            "title": "Single-Threaded CPU - Priority Queue - Leetcode 1834 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/RR1n-d4oYqE.json"
+        },
+        "pfiQ_PS1g8E": {
+            "title": "Word Search - Backtracking - Leetcode 79 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/pfiQ_PS1g8E.json"
+        },
+        "keuWJ47xG8g": {
+            "title": "Add Binary - Leetcode 67 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/keuWJ47xG8g.json"
+        },
+        "Kkmv2h48ekw": {
+            "title": "Brick Wall - Leetcode 554 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Kkmv2h48ekw.json"
+        },
+        "oobqoCJlHA0": {
+            "title": "Implement Trie (Prefix Tree) - Leetcode 208",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/oobqoCJlHA0.json"
+        },
+        "vgBrQ0NM5vE": {
+            "title": "Frequency of the Most Frequent Element - Sliding Window - Leetcode 1838",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/vgBrQ0NM5vE.json"
+        },
+        "EaphyqKU4PQ": {
+            "title": "Network Delay Time - Dijkstra's algorithm - Leetcode 743",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/EaphyqKU4PQ.json"
+        },
+        "vRbbcKXCxOw": {
+            "title": "Same Tree - Leetcode 100 - Python",
+            "status": "failed",
+            "error": "Audio file missing: /Users/akshatgarg/Desktop/AI Engineer/Week 3/youtube-rag/data/audio/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/vRbbcKXCxOw.wav"
+        },
+        "lJwbPZGo05A": {
+            "title": "Gas Station - Greedy - Leetcode 134 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/lJwbPZGo05A.json"
+        },
+        "ahobllKXEEY": {
+            "title": "Seat Reservation Manager - Leetcode 1845 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/ahobllKXEEY.json"
+        },
+        "eDtMmysldaw": {
+            "title": "Splitting a String Into Descending Consecutive Values - Leetcode 1849 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/eDtMmysldaw.json"
+        },
+        "jIaA8boiG1s": {
+            "title": "Plus One - Leetcode 66 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/jIaA8boiG1s.json"
+        },
+        "5hQ5WWW5awQ": {
+            "title": "Minimum Interval to Include Each Query - Leetcode 1851 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/5hQ5WWW5awQ.json"
+        },
+        "HLZLwjzIVGo": {
+            "title": "Perfect Squares - Dynamic Programming - Leetcode 279 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/HLZLwjzIVGo.json"
+        },
+        "8g78yfzMlao": {
+            "title": "First Missing Positive - Leetcode 41 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/8g78yfzMlao.json"
+        },
+        "XYi2-LPrwm4": {
+            "title": "Edit Distance - Dynamic Programming - Leetcode 72 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/XYi2-LPrwm4.json"
+        },
+        "YLesLbNkyjA": {
+            "title": "Maximum Subarray Min-Product - Monotonic Increasing Stack - Leetcode 1856 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/YLesLbNkyjA.json"
+        },
+        "-RDzMJ33nx8": {
+            "title": "Distinct Subsequences - Dynamic Programming - Leetcode 115 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/-RDzMJ33nx8.json"
+        },
+        "3SJ3pUkPQMc": {
+            "title": "Best Time to Buy and Sell a Stock II - Leetcode 122 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/3SJ3pUkPQMc.json"
+        },
+        "dw2nMCxG0ik": {
+            "title": "Combination Sum IV - Dynamic Programming - Leetcode 377 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/dw2nMCxG0ik.json"
+        },
+        "VFskby7lUbw": {
+            "title": "Burst Baloons - Dynamic Programming - Leetcode 312 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/VFskby7lUbw.json"
+        },
+        "YPTqKIgVk-k": {
+            "title": "Top K Frequent Elements - Bucket Sort - Leetcode 347 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/YPTqKIgVk-k.json"
+        },
+        "U2SozAs9RzA": {
+            "title": "Koko Eating Bananas - Binary Search - Leetcode 875 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/U2SozAs9RzA.json"
+        },
+        "O761YBjGxGA": {
+            "title": "Number of Ways to Rearrange Sticks With K Sticks Visible - Dynamic Programming - Leetcode 1866",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/O761YBjGxGA.json"
+        },
+        "FXWRE67PLL0": {
+            "title": "Redundant Connection - Union Find - Leetcode 684 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/FXWRE67PLL0.json"
+        },
+        "u4JAi2JJhI8": {
+            "title": "Serialize and Deserialize Binary Tree - Preorder Traversal - Leetcode 297 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/u4JAi2JJhI8.json"
+        },
+        "IsvocB5BJhw": {
+            "title": "Partition Equal Subset Sum - Dynamic Programming - Leetcode 416 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/IsvocB5BJhw.json"
+        },
+        "Sx9NNgInc3A": {
+            "title": "Word Break - Dynamic Programming - Leetcode 139 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Sx9NNgInc3A.json"
+        },
+        "amnrMCVd2YI": {
+            "title": "Hand of Straights - Leetcode 846 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/amnrMCVd2YI.json"
+        },
+        "PaJxqZVPhbg": {
+            "title": "Meeting Rooms - Leetcode 252 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/PaJxqZVPhbg.json"
+        },
+        "v1HpZUnQ4Yo": {
+            "title": "Jump Game VII - Leetcode 1871 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/v1HpZUnQ4Yo.json"
+        },
+        "FdzJmTCVyJU": {
+            "title": "Meeting Rooms II - Leetcode 253 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/FdzJmTCVyJU.json"
+        },
+        "gs2LMfuOR9k": {
+            "title": "Lowest Common Ancestor of a Binary Search Tree - Leetcode 235 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/gs2LMfuOR9k.json"
+        },
+        "bNvIQI2wAjk": {
+            "title": "Product of Array Except Self - Leetcode 238 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/bNvIQI2wAjk.json"
+        },
+        "gqXU1UyA8pk": {
+            "title": "Longest Repeating Character Replacement - Leetcode 424 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/gqXU1UyA8pk.json"
+        },
+        "bXsUuownnoQ": {
+            "title": "Graph Valid Tree - Leetcode 261 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/bXsUuownnoQ.json"
+        },
+        "s-VkcjHqkGI": {
+            "title": "Pacific Atlantic Water Flow - Leetcode 417 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/s-VkcjHqkGI.json"
+        },
+        "4RACzI5-du8": {
+            "title": "Palindromic Substrings - Leetcode 647 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/4RACzI5-du8.json"
+        },
+        "XKA22PecuMQ": {
+            "title": "Process Tasks Using Servers - Leetcode 1882 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/XKA22PecuMQ.json"
+        },
+        "P1Ic85RarKY": {
+            "title": "Merge Sorted Array - Leetcode 88 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/P1Ic85RarKY.json"
+        },
+        "BTf05gs_8iU": {
+            "title": "Design Add and Search Words Data Structure - Leetcode 211 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/BTf05gs_8iU.json"
+        },
+        "GBKI9VSKdGg": {
+            "title": "Combination Sum - Backtracking - Leetcode 39 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/GBKI9VSKdGg.json"
+        },
+        "Hr5cWUld4vU": {
+            "title": "Binary Tree Maximum Path Sum - DFS - Leetcode 124 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Hr5cWUld4vU.json"
+        },
+        "hsomLb6mUdI": {
+            "title": "Stickers to Spell Word - DP Memoization - Leetcode 691 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/hsomLb6mUdI.json"
+        },
+        "Y0lT9Fck7qI": {
+            "title": "Climbing Stairs - Dynamic Programming - Leetcode 70 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Y0lT9Fck7qI.json"
+        },
+        "MOeuK6gaC2A": {
+            "title": "Minimum Number of Flips to make Binary String Alternating - Sliding Window - Leetcode 1888 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/MOeuK6gaC2A.json"
+        },
+        "RyBM56RIWrM": {
+            "title": "Counting Bits - Dynamic Programming - Leetcode 338 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/RyBM56RIWrM.json"
+        },
+        "asbcE9mZz_U": {
+            "title": "Word Search II - Backtracking Trie - Leetcode 212 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/asbcE9mZz_U.json"
+        },
+        "8f1XPm4WOUc": {
+            "title": "Number of Connected Components in an Undirected Graph - Union Find - Leetcode 323 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/8f1XPm4WOUc.json"
+        },
+        "6kTZYvNNyps": {
+            "title": "Alien Dictionary - Topological Sort - Leetcode 269 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/6kTZYvNNyps.json"
+        },
+        "hTM3phVI6YQ": {
+            "title": "Maximum Depth of Binary Tree - 3 Solutions - Leetcode 104 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/hTM3phVI6YQ.json"
+        },
+        "f7JOBJIC-NA": {
+            "title": "Prim's Algorithm - Minimum Spanning Tree - Min Cost to Connect all Points - Leetcode 1584 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/f7JOBJIC-NA.json"
+        },
+        "kShkQLQZ9K4": {
+            "title": "Merge Triplets to Form Target Triplet - Greedy - Leetcode 1899 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/kShkQLQZ9K4.json"
+        },
+        "NMP3nRPyX5g": {
+            "title": "Maximum Number of Removable Characters - Binary Search - Leetcode 1898 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/NMP3nRPyX5g.json"
+        },
+        "wjYnzkAhcNk": {
+            "title": "Find the Duplicate Number - Floyd's Cycle Detection - Leetcode 287 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/wjYnzkAhcNk.json"
+        },
+        "Ph95IHmRp5M": {
+            "title": "N-Queens - Backtracking - Leetcode 51 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Ph95IHmRp5M.json"
+        },
+        "fFVZt-6sgyo": {
+            "title": "Subarray Sum Equals K - Prefix Sums - Leetcode 560 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/fFVZt-6sgyo.json"
+        },
+        "LziQ6Qx9sks": {
+            "title": "Minimum Number of Days to Eat N Oranges - Dynamic Programming - Leetcode 1553 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/LziQ6Qx9sks.json"
+        },
+        "gBTe7lFR3vc": {
+            "title": "Linked List Cycle - Floyd's Tortoise and Hare - Leetcode 141 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/gBTe7lFR3vc.json"
+        },
+        "cTBiBSnjO3c": {
+            "title": "Daily Temperatures - Monotonic Stack - Leetcode 739 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/cTBiBSnjO3c.json"
+        },
+        "mLpW3qfbNJ8": {
+            "title": "Count Sub Islands - DFS - Leetcode 1905 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/mLpW3qfbNJ8.json"
+        },
+        "amvrKlMLuGY": {
+            "title": "Swim in Rising Water - Dijkstra's Algorithm - Leetcode 778 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/amvrKlMLuGY.json"
+        },
+        "e69C6xhiSQE": {
+            "title": "Walls and Gates - Multi-Source BFS - Leetcode 286 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/e69C6xhiSQE.json"
+        },
+        "h9iTnkgv05E": {
+            "title": "Word Ladder - Breadth First Search - Leetcode 127 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/h9iTnkgv05E.json"
+        },
+        "4v42XOuU1XA": {
+            "title": "Maximum Alternating Subsequence Sum - Dynamic Programming - Leetcode 1911 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/4v42XOuU1XA.json"
+        },
+        "7cp5imvDzl4": {
+            "title": "Microsoft's Most Asked Question 2021 - Count Good Nodes in a Binary Tree - Leetcode 1448 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/7cp5imvDzl4.json"
+        },
+        "OVgPAJIyX6o": {
+            "title": "Verifying an Alien Dictionary - Leetcode 953 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/OVgPAJIyX6o.json"
+        },
+        "TsA4vbtfCvo": {
+            "title": "GOOGLE MOST ASKED QUESTION 2021 - Maximum Points you can Obtain from Cards - Leetcode 1423 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/TsA4vbtfCvo.json"
+        },
+        "S5bfdUTrKLM": {
+            "title": "Linkedin Interview Question - Reorder List - Leetcode 143 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/S5bfdUTrKLM.json"
+        },
+        "rI2EBUEMfTk": {
+            "title": "K Closest Points to Origin - Heap / Priority Queue - Leetcode 973 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/rI2EBUEMfTk.json"
+        },
+        "-w67-4tnH5U": {
+            "title": "Paint House - Dynamic Programming - Leetcode 256 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/-w67-4tnH5U.json"
+        },
+        "6QQRayzOTD4": {
+            "title": "Eliminate Maximum Number of Monsters - Leetcode 1921 -  Weekly Contest 248 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/6QQRayzOTD4.json"
+        },
+        "TjFXEUCMqI8": {
+            "title": "Valid Sudoku - Amazon Interview Question - Leetcode 36 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/TjFXEUCMqI8.json"
+        },
+        "6aEyTjOwlJU": {
+            "title": "Decode Ways - Dynamic Programming - Leetcode 91 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/6aEyTjOwlJU.json"
+        },
+        "1vZswirL8Y8": {
+            "title": "Multiply Strings - Leetcode 43 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/1vZswirL8Y8.json"
+        },
+        "UcoN6UjAI64": {
+            "title": "Reverse Bits - Binary - Leetcode 190 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/UcoN6UjAI64.json"
+        },
+        "3THUt0vAFLU": {
+            "title": "Unique Length-3 Palindromic Subsequences - Leetcode 1930 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/3THUt0vAFLU.json"
+        },
+        "BHr381Guz3Y": {
+            "title": "Rotate Array - Leetcode 189 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/BHr381Guz3Y.json"
+        },
+        "rSA3t6BDDwg": {
+            "title": "Combination Sum II - Backtracking - Leetcode 40 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/rSA3t6BDDwg.json"
+        },
+        "B1k_sxOSgv8": {
+            "title": "Encode and Decode Strings - Leetcode 271 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/B1k_sxOSgv8.json"
+        },
+        "pGMsrvt0fpk": {
+            "title": "Minimum Path Sum - Dynamic Programming - Leetcode 64 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/pGMsrvt0fpk.json"
+        },
+        "A8NUOmlwOlM": {
+            "title": "Insert Interval - Leetcode 57 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/A8NUOmlwOlM.json"
+        },
+        "nKv2LnC_g6E": {
+            "title": "Robot Bounded in Circle - Math & Geometry - Leetcode 1041 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/nKv2LnC_g6E.json"
+        },
+        "WnPLSRLSANE": {
+            "title": "Missing Number - Blind 75 - Leetcode 268 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/WnPLSRLSANE.json"
+        },
+        "qB0zZpBJlh8": {
+            "title": "Decode String - Leetcode 394 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/qB0zZpBJlh8.json"
+        },
+        "B-QCq79-Vfw": {
+            "title": "Last Stone Weight - Priority Queue - Leetcode 1046 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/B-QCq79-Vfw.json"
+        },
+        "KxK33AcQZpQ": {
+            "title": "Check if Move is Legal - Biweekly Leetcode Contest - 1958 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/KxK33AcQZpQ.json"
+        },
+        "3YDBT9ZrfaU": {
+            "title": "Minimum Number of Swaps to Make String Balanced - Leetcode 1963 Weekly Contest - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/3YDBT9ZrfaU.json"
+        },
+        "nPVEaB3AjUM": {
+            "title": "Pascal's Triangle - Leetcode 118 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/nPVEaB3AjUM.json"
+        },
+        "izRDc1il9Pk": {
+            "title": "Flip Equivalent Binary Trees - Leetcode 951 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/izRDc1il9Pk.json"
+        },
+        "Wmb3YdVYfqM": {
+            "title": "Array With Elements Not Equal to Average of Neighbors - Leetcode 1968 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Wmb3YdVYfqM.json"
+        },
+        "9z2BunfoZ5Y": {
+            "title": "Surrounded Regions - Graph - Leetcode 130 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/9z2BunfoZ5Y.json"
+        },
+        "HAgLH58IgJQ": {
+            "title": "Reverse Integer - Bit Manipulation - Leetcode 7 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/HAgLH58IgJQ.json"
+        },
+        "yubRKwixN-U": {
+            "title": "Palindrome Number - Leetcode 9 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/yubRKwixN-U.json"
+        },
+        "g9YQyYi4IQQ": {
+            "title": "Pow(x, n) - X to the power of N - Leetcode 50 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/g9YQyYi4IQQ.json"
+        },
+        "Q2Tw6gcVEwc": {
+            "title": "ZigZag Conversion - Leetcode 6 - Python",
+            "status": "failed",
+            "error": "Audio file missing: /Users/akshatgarg/Desktop/AI Engineer/Week 3/youtube-rag/data/audio/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Q2Tw6gcVEwc.wav"
+        },
+        "aHqn4Dynd1k": {
+            "title": "Find Unique Binary String - Leetcode Weekly Contest 1980 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/aHqn4Dynd1k.json"
+        },
+        "Mjy4hd2xgrs": {
+            "title": "Coin Change 2 - Dynamic Programming Unbounded Knapsack - Leetcode 518 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Mjy4hd2xgrs.json"
+        },
+        "QfJsau0ItOY": {
+            "title": "Balanced Binary Tree - Leetcode 110 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/QfJsau0ItOY.json"
+        },
+        "XEmy13g1Qxc": {
+            "title": "Kth Largest Element in an Array - Quick Select - Leetcode 215 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/XEmy13g1Qxc.json"
+        },
+        "3jdxYj3DD98": {
+            "title": "Roman to Integer - Leetcode 13 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/3jdxYj3DD98.json"
+        },
+        "JU5XdBZZtlk": {
+            "title": "Minimum Difference Between Highest and Lowest of K Scores - Leetcode Weekly Contest - 1984 Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/JU5XdBZZtlk.json"
+        },
+        "lRCaNiqO3xI": {
+            "title": "Find the Kth Largest Integer in the Array - Leetcode Weekly Contest - 1985 Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/lRCaNiqO3xI.json"
+        },
+        "q0s6m7AiM7o": {
+            "title": "Combinations - Leetcode 77 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/q0s6m7AiM7o.json"
+        },
+        "5eIK3zUdYmE": {
+            "title": "Bellman-Ford - Cheapest Flights within K Stops - Leetcode 787 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/5eIK3zUdYmE.json"
+        },
+        "0sWShKIJoo4": {
+            "title": "Longest Common Prefix - Leetcode 14 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/0sWShKIJoo4.json"
+        },
+        "qK4PtjrVD0U": {
+            "title": "Operations on Tree - Leetcode Biweekly Contest - 1993 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/qK4PtjrVD0U.json"
+        },
+        "DEJAZBq0FDA": {
+            "title": "Remove Duplicates from Sorted Array - Leetcode 26 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/DEJAZBq0FDA.json"
+        },
+        "M0Zay1Qr9ws": {
+            "title": "Ugly Number - Leetcode 263 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/M0Zay1Qr9ws.json"
+        },
+        "4pY1bsBpIY4": {
+            "title": "Minimum Cost for Tickets - Dynamic Programming - Leetcode 983 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/4pY1bsBpIY4.json"
+        },
+        "KT9rltZTybQ": {
+            "title": "Length of Last Word - Leetcode 58 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/KT9rltZTybQ.json"
+        },
+        "lEQ8ZlLOuyQ": {
+            "title": "Number of Pairs of Interchangeable Rectangles - Leetcode 2001 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/lEQ8ZlLOuyQ.json"
+        },
+        "aoHbYlO8vDg": {
+            "title": "Maximum Product of the Length of Two Palindromic Subsequences - Leetcode 2002 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/aoHbYlO8vDg.json"
+        },
+        "Pcd1ii9P9ZI": {
+            "title": "Remove Element - Leetcode 27 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Pcd1ii9P9ZI.json"
+        },
+        "bahebearrDc": {
+            "title": "Detect Squares - Leetcode Weekly Contest - Problem 2013 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/bahebearrDc.json"
+        },
+        "nZtrZPTTCAo": {
+            "title": "All Possible Full Binary Trees - Memoization - Leetcode 894 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/nZtrZPTTCAo.json"
+        },
+        "ohBNdSJyLh8": {
+            "title": "Integer to Roman - Leetcode 12 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/ohBNdSJyLh8.json"
+        },
+        "d4SPuvkaeoo": {
+            "title": "Maximum Length of a Concatenated String with Unique Characters - Leetcode 1239 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/d4SPuvkaeoo.json"
+        },
+        "N4wDSOw65hI": {
+            "title": "Grid Game - Leetcode Weekly Contest Problem 2017 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/N4wDSOw65hI.json"
+        },
+        "TC_xLIWl7qY": {
+            "title": "Unique Email Addresses - Two Solutions - Leetcode 929 Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/TC_xLIWl7qY.json"
+        },
+        "RF_M9tX4Eag": {
+            "title": "Reverse Linked List II - Leetcode 92 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/RF_M9tX4Eag.json"
+        },
+        "86yKkaNi3sU": {
+            "title": "Find Missing Observations - Leetcode 2028 Weekly Contest Problem - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/86yKkaNi3sU.json"
+        },
+        "ktmzAZWkEZ0": {
+            "title": "Min Cost Climbing Stairs - Dynamic Programming - Leetcode 746 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/ktmzAZWkEZ0.json"
+        },
+        "61tN4YEdiTM": {
+            "title": "Restore IP Addresses - Leetcode 93 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/61tN4YEdiTM.json"
+        },
+        "uhgdXOlGYqE": {
+            "title": "Stone Game - Leetcode 877 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/uhgdXOlGYqE.json"
+        },
+        "E36O5SWp-LE": {
+            "title": "Subtree of Another Tree - Leetcode 572 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/E36O5SWp-LE.json"
+        },
+        "fu2cD_6E8Hw": {
+            "title": "Time Based Key-Value Store - Leetcode 981 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/fu2cD_6E8Hw.json"
+        },
+        "jJXJ16kPFWg": {
+            "title": "Valid Palindrome - Leetcode 125 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/jJXJ16kPFWg.json"
+        },
+        "I7j0F7AHpb8": {
+            "title": "Best Time to Buy and Sell Stock with Cooldown - Leetcode 309 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/I7j0F7AHpb8.json"
+        },
+        "nONCGxWoUfM": {
+            "title": "Non-Overlapping Intervals - Leetcode 435 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/nONCGxWoUfM.json"
+        },
+        "Pr6T-3yB9RM": {
+            "title": "Car Fleet - Leetcode 853 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Pr6T-3yB9RM.json"
+        },
+        "7yF-U1hLEqQ": {
+            "title": "Isomorphic Strings - Leetcode 205 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/7yF-U1hLEqQ.json"
+        },
+        "5Km3utixwZs": {
+            "title": "Number of 1 Bits - Leetcode 191 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/5Km3utixwZs.json"
+        },
+        "3OamzN90kPg": {
+            "title": "Contains Duplicate - Leetcode 217 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/3OamzN90kPg.json"
+        },
+        "u_by_cTsNJA": {
+            "title": "Find Bottom Left Tree Value - Leetcode 513 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/u_by_cTsNJA.json"
+        },
+        "hOjcdrqMoQ8": {
+            "title": "Kth Largest Element in a Stream - Leetcode 703 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/hOjcdrqMoQ8.json"
+        },
+        "9UtInBqnCgA": {
+            "title": "Valid Anagram - Leetcode 242 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/9UtInBqnCgA.json"
+        },
+        "gVUrDV4tZfY": {
+            "title": "Sum of Two Integers - Leetcode 371 - Java",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/gVUrDV4tZfY.json"
+        },
+        "g0npyaQtAQM": {
+            "title": "Target Sum - Dynamic Programming - Leetcode 494 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/g0npyaQtAQM.json"
+        },
+        "p10f-VpO4nE": {
+            "title": "Remove Duplicates from Sorted List - Leetcode 83 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/p10f-VpO4nE.json"
+        },
+        "B7m8UmZE-vw": {
+            "title": "Partition Labels - Leetcode 763 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/B7m8UmZE-vw.json"
+        },
+        "jwt5mTjEXGc": {
+            "title": "Trim a Binary Search Tree - Leetcode 669 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/jwt5mTjEXGc.json"
+        },
+        "ZGxqqjljpUI": {
+            "title": "Can Place Flowers - Leetcode 605 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/ZGxqqjljpUI.json"
+        },
+        "iJGr1OtmH0c": {
+            "title": "Max Area of Island - Leetcode 695 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/iJGr1OtmH0c.json"
+        },
+        "mBk4I0X46oI": {
+            "title": "Partition to K Equal Sum Subsets - Backtracking - Leetcode 698 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/mBk4I0X46oI.json"
+        },
+        "G8xtZy0fDKg": {
+            "title": "Find All Anagrams in a String - Leetcode 438 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/G8xtZy0fDKg.json"
+        },
+        "uQrRoqLfX1A": {
+            "title": "Unavailable video (uQrRoqLfX1A)",
+            "status": "failed",
+            "error": "Audio file missing: /Users/akshatgarg/Desktop/AI Engineer/Week 3/youtube-rag/data/audio/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/uQrRoqLfX1A.wav"
+        },
+        "Gjkhm1gYIMw": {
+            "title": "Find the Index of the First Occurrence in a String - Leetcode 28 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Gjkhm1gYIMw.json"
+        },
+        "JoF0Z7nVSrA": {
+            "title": "Knuth–Morris–Pratt KMP - Find the Index of the First Occurrence in a String - Leetcode 28 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/JoF0Z7nVSrA.json"
+        },
+        "dDokMfPpfu4": {
+            "title": "Recursion for Beginners - Fibonacci Numbers",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/dDokMfPpfu4.json"
+        },
+        "in6QbUPMJ3I": {
+            "title": "Integer Break - Dynamic Programming - Leetcode 343 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/in6QbUPMJ3I.json"
+        },
+        "hUe0cUKV-YY": {
+            "title": "Matchsticks to Square - Leetcode 473 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/hUe0cUKV-YY.json"
+        },
+        "7pnhv842keE": {
+            "title": "Majority Element - Leetcode 169 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/7pnhv842keE.json"
+        },
+        "UbyhOgBN834": {
+            "title": "Permutation in String - Leetcode 567 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/UbyhOgBN834.json"
+        },
+        "rW4vm0-DLYc": {
+            "title": "Implement Stack using Queues - Leetcode 225 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/rW4vm0-DLYc.json"
+        },
+        "Tuc-rjJbsXU": {
+            "title": "Number of Longest Increasing Subsequence - Dynamic Programming - Leetcode 673 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Tuc-rjJbsXU.json"
+        },
+        "s8p8ukTyA2I": {
+            "title": "Task Scheduler - Leetcode 621 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/s8p8ukTyA2I.json"
+        },
+        "FPCZsG_AkUg": {
+            "title": "Squares of a Sorted Array - Leetcode 977 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/FPCZsG_AkUg.json"
+        },
+        "LSKQyOz_P8I": {
+            "title": "Path Sum - Leetcode 112 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/LSKQyOz_P8I.json"
+        },
+        "ZyB_gQ8vqGA": {
+            "title": "Reconstruct Itinerary - Leetcode 332 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/ZyB_gQ8vqGA.json"
+        },
+        "y704fEOx0s0": {
+            "title": "Rotting Oranges - Leetcode 994 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/y704fEOx0s0.json"
+        },
+        "7FCemBxvGw0": {
+            "title": "Delete and Earn - Dynamic Programming - Leetcode 740 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/7FCemBxvGw0.json"
+        },
+        "Vn2v6ajA7U0": {
+            "title": "Subsets II - Backtracking - Leetcode 90 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Vn2v6ajA7U0.json"
+        },
+        "aayNRwUN3Do": {
+            "title": "Move Zeroes - Leetcode 283 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/aayNRwUN3Do.json"
+        },
+        "wCc_nd-GiEc": {
+            "title": "Longest Increasing Path in a Matrix - Leetcode 329",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/wCc_nd-GiEc.json"
+        },
+        "2g_b1aYTHeg": {
+            "title": "Reorganize String - Tesla Interview Question - Leetcode 767 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/2g_b1aYTHeg.json"
+        },
+        "u89i60lYx8U": {
+            "title": "Find Pivot Index - Leetcode 724 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/u89i60lYx8U.json"
+        },
+        "pNichitDD2E": {
+            "title": "Design Twitter - Leetcode 355 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/pNichitDD2E.json"
+        },
+        "6lH4nO3JfLk": {
+            "title": "Snakes and Ladders - Leetcode 909 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/6lH4nO3JfLk.json"
+        },
+        "qMPX1AOa83k": {
+            "title": "Single Number - Leetcode 136 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/qMPX1AOa83k.json"
+        },
+        "D0X0BONOQhI": {
+            "title": "Intersection of Two Linked Lists - Leetcode 160 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/D0X0BONOQhI.json"
+        },
+        "Pzg3bCDY87w": {
+            "title": "Open the Lock - Leetcode 752 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Pzg3bCDY87w.json"
+        },
+        "8i-f24YFWC4": {
+            "title": "Find All Numbers Disappeared in an Array - Leetcode 448 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/8i-f24YFWC4.json"
+        },
+        "QhPdNS143Qg": {
+            "title": "Valid Parenthesis String - Leetcode 678 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/QhPdNS143Qg.json"
+        },
+        "G9xeB2-7PqY": {
+            "title": "Maximum Number of Balloons - Leetcode 1189 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/G9xeB2-7PqY.json"
+        },
+        "aYqYMIqZx5s": {
+            "title": "Minimum Size Subarray Sum - Leetcode 209 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/aYqYMIqZx5s.json"
+        },
+        "o-YDQzHoaKM": {
+            "title": "Find K Closest Elements - Leetcode 658 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/o-YDQzHoaKM.json"
+        },
+        "xW4QsTtaCa4": {
+            "title": "Guess Number Higher or Lower - Leetcode 374 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/xW4QsTtaCa4.json"
+        },
+        "5rHz_6s2Buw": {
+            "title": "Arranging Coins - Leetcode 441 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/5rHz_6s2Buw.json"
+        },
+        "Cg_wWPHJ2Sk": {
+            "title": "Valid Perfect Square - Leetcode 367 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Cg_wWPHJ2Sk.json"
+        },
+        "W_akoecmCbM": {
+            "title": "Word Pattern - Leetcode 290 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/W_akoecmCbM.json"
+        },
+        "slYh0ZNEqSw": {
+            "title": "Online Stock Span - Leetcode 901 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/slYh0ZNEqSw.json"
+        },
+        "vGsyTE4s34w": {
+            "title": "Wiggle Sort - Leetcode 280 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/vGsyTE4s34w.json"
+        },
+        "aBbsfn863oA": {
+            "title": "Design Circular Queue - Leetcode 622 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/aBbsfn863oA.json"
+        },
+        "iu0082c4HDE": {
+            "title": "Evaluate Reverse Polish Notation - Leetcode 150 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/iu0082c4HDE.json"
+        },
+        "Kk6mXAzqX3Y": {
+            "title": "Insertion Sort List - Leetcode 147 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Kk6mXAzqX3Y.json"
+        },
+        "WDx6Y4i4xJ8": {
+            "title": "Largest Number - Leetcode 179 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/WDx6Y4i4xJ8.json"
+        },
+        "cFabMOnJaq0": {
+            "title": "Remove K Digits - Leetcode 402 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/cFabMOnJaq0.json"
+        },
+        "nIVW4P8b1VA": {
+            "title": "Find Minimum in Rotated Sorted Array - Binary Search - Leetcode 153 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/nIVW4P8b1VA.json"
+        },
+        "8u-H6O_XQKE": {
+            "title": "Longest Happy String - Leetcode 1405 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/8u-H6O_XQKE.json"
+        },
+        "nhAsMabiVkM": {
+            "title": "Remove Covered Intervals - Leetcode 1288 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/nhAsMabiVkM.json"
+        },
+        "OKcrLfR-8mE": {
+            "title": "Continuous Subarray Sum - Leetcode 523 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/OKcrLfR-8mE.json"
+        },
+        "EYeR-_1NRlQ": {
+            "title": "4Sum - Leetcode 18 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/EYeR-_1NRlQ.json"
+        },
+        "evUFsOb_iLY": {
+            "title": "Push Dominoes - Leetcode 838 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/evUFsOb_iLY.json"
+        },
+        "g_S5WuasWUE": {
+            "title": "Iterative & Recursive - Binary Tree Inorder Traversal - Leetcode 94 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/g_S5WuasWUE.json"
+        },
+        "FzTYfsmtOso": {
+            "title": "Repeated DNA Sequences - Leetcode 187 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/FzTYfsmtOso.json"
+        },
+        "j4KwhBziOpg": {
+            "title": "Insert Delete GetRandom O(1) - Leetcode 380 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/j4KwhBziOpg.json"
+        },
+        "gkINMhbbIbU": {
+            "title": "Shortest Bridge - Leetcode 934 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/gkINMhbbIbU.json"
+        },
+        "Z6idIicFDOE": {
+            "title": "Maximum Frequency Stack - Leetcode 895 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Z6idIicFDOE.json"
+        },
+        "68a1Dc_qVq4": {
+            "title": "Next Greater Element I - Leetcode 496 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/68a1Dc_qVq4.json"
+        },
+        "RXy5RzGF5wo": {
+            "title": "Binary Search Tree Iterator - Leetcode 173 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/RXy5RzGF5wo.json"
+        },
+        "XbaxWuHIWUs": {
+            "title": "Boats to Save People - Leetcode 881 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/XbaxWuHIWUs.json"
+        },
+        "d-B_gk_gJtQ": {
+            "title": "Two City Scheduling - Leetcode 1029 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/d-B_gk_gJtQ.json"
+        },
+        "s4DPM8ct1pI": {
+            "title": "Binary Search - Leetcode 704 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/s4DPM8ct1pI.json"
+        },
+        "YUF3_eBdzsk": {
+            "title": "Split Array Largest Sum - Leetcode 410 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/YUF3_eBdzsk.json"
+        },
+        "_d0T_2Lk2qA": {
+            "title": "Reverse String - 3 Ways - Leetcode 344 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/_d0T_2Lk2qA.json"
+        },
+        "JrxRYBwG6EI": {
+            "title": "Valid Palindrome II - Leetcode 680 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/JrxRYBwG6EI.json"
+        },
+        "08sn_w4LWEE": {
+            "title": "Car Pooling - Leetcode 1094 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/08sn_w4LWEE.json"
+        },
+        "Re_v0j0CRsg": {
+            "title": "Find Eventual Safe States - Leetcode 802 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Re_v0j0CRsg.json"
+        },
+        "Id_tqGdsZQI": {
+            "title": "Baseball Game - Leetcode 682 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Id_tqGdsZQI.json"
+        },
+        "U4hFQCa1Cq0": {
+            "title": "Populating Next Right Pointers in Each Node - Leetcode 116 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/U4hFQCa1Cq0.json"
+        },
+        "nJYFh4Dl-as": {
+            "title": "Shift 2D Grid - Leetcode 1260 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/nJYFh4Dl-as.json"
+        },
+        "7vVEJwVvAlI": {
+            "title": "Convert BST to Greater Tree - Leetcode 538 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/7vVEJwVvAlI.json"
+        },
+        "w6LcypDgC4w": {
+            "title": "Remove All Adjacent Duplicates in String II - Leetcode 1209 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/w6LcypDgC4w.json"
+        },
+        "q5ANAl8Z458": {
+            "title": "132 Pattern - Leetcode 456 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/q5ANAl8Z458.json"
+        },
+        "qU32rTy_kOM": {
+            "title": "Check if a String Contains all Binary Codes of Size K - Leetcode 1461 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/qU32rTy_kOM.json"
+        },
+        "KE8MQuwE2yA": {
+            "title": "Range Sum Query 2D - Immutable - Leetcode 304 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/KE8MQuwE2yA.json"
+        },
+        "nalYyLZgvCY": {
+            "title": "N-Queens II - Leetcode 52 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/nalYyLZgvCY.json"
+        },
+        "D4T2N0yAr20": {
+            "title": "Search Suggestions System - Leetcode 1268 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/D4T2N0yAr20.json"
+        },
+        "RegQckCegDk": {
+            "title": "Non-Decreasing Array - Leetcode 665 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/RegQckCegDk.json"
+        },
+        "Y7UTvogADH0": {
+            "title": "Maximum Performance of a Team - Leetcode 1383 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/Y7UTvogADH0.json"
+        },
+        "b1WpYxnuebQ": {
+            "title": "Construct String from Binary Tree - Leetcode 606 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/b1WpYxnuebQ.json"
+        },
+        "VUVpTZVa7Ls": {
+            "title": "Count Vowels Permutation - Dynamic Programming - Leetcode 1220 - Python",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/VUVpTZVa7Ls.json"
+        },
+        "BgLTDT03QtU": {
+            "title": "Big-O Notation - For Coding Interviews",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/BgLTDT03QtU.json"
+        },
+        "UrcwDOEBzZE": {
+            "title": "Most Common Concepts for Coding Interviews",
+            "status": "completed",
+            "transcript_path": "data/transcripts/PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_/UrcwDOEBzZE.json"
+        }
+    },
+    "updated_at": "2026-11-23T17:30:16.868885+00:00",
+    "completed_count": 312,
+    "skipped_count": 1,
+    "failed_count": 4
+}
