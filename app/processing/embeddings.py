@@ -1,8 +1,6 @@
 
+import logging
 from functools import lru_cache
-
-from sentence_transformers import SentenceTransformer
-
 
 # --------------------------------------------------
 # CONFIGURATION
@@ -11,26 +9,41 @@ from sentence_transformers import SentenceTransformer
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 EMBEDDING_DIMENSION = 384
 
+logger = logging.getLogger(__name__)
+
 
 # --------------------------------------------------
-# 1. LOAD MODEL
+# LOAD MODEL LAZILY
 # --------------------------------------------------
 
 @lru_cache(maxsize=1)
-def load_embedding_model() -> SentenceTransformer:
+def load_embedding_model():
     """
-    Load the embedding model once and reuse it.
+    Load the embedding model only when an embedding
+    is requested. Reuse the model after first loading.
     """
-    return SentenceTransformer(MODEL_NAME)
+
+    logger.info("Loading embedding model: %s", MODEL_NAME)
+
+    from sentence_transformers import SentenceTransformer
+
+    model = SentenceTransformer(
+        MODEL_NAME,
+        device="cpu",
+    )
+
+    logger.info("Embedding model loaded successfully.")
+
+    return model
 
 
 # --------------------------------------------------
-# 2. GENERATE SINGLE EMBEDDING
+# GENERATE SINGLE EMBEDDING
 # --------------------------------------------------
 
 def generate_embedding(text: str) -> list[float]:
     """
-    Convert one text into a 384-dimensional vector.
+    Convert one text into a normalized 384-dimensional vector.
     """
 
     if not isinstance(text, str) or not text.strip():
@@ -41,19 +54,19 @@ def generate_embedding(text: str) -> list[float]:
     embedding = model.encode(
         text,
         convert_to_numpy=True,
-        normalize_embeddings=True
+        normalize_embeddings=True,
     )
 
     return embedding.tolist()
 
 
 # --------------------------------------------------
-# 3. GENERATE BATCH EMBEDDINGS
+# GENERATE BATCH EMBEDDINGS
 # --------------------------------------------------
 
 def generate_embeddings(
     texts: list[str],
-    batch_size: int = 32
+    batch_size: int = 32,
 ) -> list[list[float]]:
     """
     Generate embeddings for multiple transcript chunks.
@@ -65,8 +78,13 @@ def generate_embeddings(
     if batch_size <= 0:
         raise ValueError("batch_size must be positive.")
 
-    if any(not isinstance(text, str) or not text.strip() for text in texts):
-        raise ValueError("Every input text must be a non-empty string.")
+    if any(
+        not isinstance(text, str) or not text.strip()
+        for text in texts
+    ):
+        raise ValueError(
+            "Every input text must be a non-empty string."
+        )
 
     model = load_embedding_model()
 
@@ -75,7 +93,7 @@ def generate_embeddings(
         batch_size=batch_size,
         show_progress_bar=True,
         convert_to_numpy=True,
-        normalize_embeddings=True
+        normalize_embeddings=True,
     )
 
     return embeddings.tolist()
