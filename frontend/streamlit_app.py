@@ -11,11 +11,15 @@ import streamlit as st
 # CONFIGURATION
 # ============================================================
 
+import streamlit as st
+
 API_URL = os.getenv(
     "API_URL",
-    "http://127.0.0.1:8000",
+    st.secrets.get(
+        "API_URL",
+        "https://youtube-rag-1-aoko.onrender.com"
+    )
 ).rstrip("/")
-
 
 # ============================================================
 # PAGE CONFIGURATION
